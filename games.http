@@ -1,0 +1,5 @@
+﻿GET http://localhost:5275
+// talking to the API
+
+// HTTP extensions provides a way of adding 
+//parameters to GET that are visible to HTTP.

@@ -13,6 +13,9 @@ namespace GameStore
              * 
              */
 
+            //Implicit Declarition of List of Game (Data Transfer Objects)
+            // For Crud??
+
             var app = builder.Build();
 
             app.MapGet("/", () => "Hello World!");
